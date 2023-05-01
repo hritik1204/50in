@@ -1,0 +1,20 @@
+.tableList {
+  display: fixed;
+  border: 3px solid #34cb65;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.table {
+  height: 300px;
+  overflow-y: scroll;
+  table-layout: fixed;
+}
+
+.table th {
+  display: table-cell;
+}
+
+.table td {
+  text-align: center;
+}
